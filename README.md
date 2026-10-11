@@ -1,1 +1,1 @@
-# quan-li-diem-sinh-vien
+# VõTrungĐạt64_pythonproject
